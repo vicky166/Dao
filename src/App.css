@@ -36,3 +36,119 @@
     transform: rotate(360deg);
   }
 }
+.proposel {
+  margin-top: 30px;
+  margin-left: 200px;
+  border-width: 20px;
+  border-color: red;
+  border-radius: 20px;
+  background-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+
+
+}
+.btn1 {
+  margin-top: 75px;
+  margin-left: 200px;
+  font-size: 18px;
+  color: black;
+  border-color: blue;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.form2 {
+  margin-top: 20px;
+  border-width: 2px;
+  border-radius: 15px;
+  border-color: green;
+}
+.btn3 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: green;
+  border-color: green;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.btn4 {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+  color: green;
+  border-color: green;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.btn5 {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+  color: blue;
+  border-color: blue;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.btn6 {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+  color: red;
+  border-color: red;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 2px;
+  border-radius: 15px;
+}
+
+.card {
+  margin-top: 50px;
+  margin-left: 0px;
+}
+#navbar {
+  font-size: 30px;
+  font-style: oblique;
+  font-weight: 800;
+  color: blue;
+}
+.form{
+  border-width: 2px;
+  border-radius: 15px;
+  border-color: green;
+  margin-left: 200px;
+}
+#Contain{
+  margin-left: 200px;
+  margin-bottom: 30px;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+.count1{
+  margin-left: 50px;
+}
+.count2{
+  margin-left: 50px;
+}
+
